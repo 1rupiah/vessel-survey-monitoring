@@ -1,3 +1,13 @@
+### Portfolio Project by Rahmat Hidayat
+
+Available for freelance, consulting, contract, and full-time opportunities.
+
+- **📧 Email**: rahmat6hidayat@gmail.com
+- **💼 LinkedIn**: https://www.linkedin.com/in/rahmat6hidayat
+- **📍 Location**: Jakarta, Indonesia
+
+This repository showcases a production-grade geospatial monitoring platform built for real-time vessel tracking and offshore survey operations. It demonstrates full-stack application development, telemetry streaming, GIS visualization, sensor integration, navigation analytics, and operational monitoring systems used in marine survey environments.
+
 # 🛥️ VesselTrack Real-time Survey Line Monitor
 
 A full-stack web application for real-time vessel tracking and bathymetric survey line monitoring, built from hands-on experience in offshore geophysical surveys.
@@ -139,3 +149,7 @@ Supported instruments (real-world):
 ## Background
 
 Built based on experience in offshore geophysical survey operations — data acquisition (sonar, ADCP), QC/processing, navigation & positioning, and reporting. This project demonstrates how those workflows translate into software.
+
+## 📄 Disclaimer
+
+This repository is presented for portfolio and demonstration purposes only. All rights belong to their respective owners. If you would like to discuss similar projects, consulting opportunities, freelance work, or full-time positions, feel free to contact me through the information provided above.
