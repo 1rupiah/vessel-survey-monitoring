@@ -148,7 +148,7 @@ Supported instruments (real-world):
 
 ## Background
 
-Built based on experience in offshore geophysical survey operations — data acquisition (sonar, ADCP), QC/processing, navigation & positioning, and reporting. This project demonstrates how those workflows translate into software.
+Built based on experience in offshore geophysical survey operations - data acquisition (sonar, ADCP), QC/processing, navigation & positioning, and reporting. This project demonstrates how those workflows translate into software.
 
 ## 📄 Disclaimer
 
